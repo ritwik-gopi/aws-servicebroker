@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  aws-servicebroker:
+  - created: "2020-02-03T12:22:51.613737+05:30"
+    description: Deploys the AWS Service Broker
+    digest: 59cd4bb9fcdbb8a17072b73d4117be0f2318fc8b55ffe59fa377268a826840f7
+    name: aws-servicebroker
+    urls:
+    - aws-servicebroker-1.0.2.tgz
+    version: 1.0.2
+generated: "2020-02-03T12:22:51.613136+05:30"
